@@ -11,7 +11,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Programming:** Java, Swift, C++  
+- **Programming:** Java && Springboot, Python in NLP
 - **AI & Data:** Deep Learning, Natural Language Processing (NLP)  
 
 ---
